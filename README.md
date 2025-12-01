@@ -1,5 +1,3 @@
-Here’s a README you can drop straight into README.md in that repo:
-
 # Socket.IO Realtime Demo
 
 This repository is a simple **client–server demo using Socket.IO** to show how real-time, bidirectional communication works between a browser and a Node.js backend.
